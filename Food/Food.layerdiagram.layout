@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<layerDiagram dslVersion="1.0.0.0" Id="ff38d7dc-6e3f-473d-9ed0-3c85b6f0579f" absoluteBounds="0, 0, 11, 8.5" name="Food">
+  <layerModelMoniker Id="7b06d079-a604-446a-adc8-6bb0b908dfd0" />
+  <nestedChildShapes>
+    <layerShape Id="de6ba11a-264f-470e-9979-52d62c37ec2d" absoluteBounds="1.75, 0.875, 2, 0.75" customColor="161, 199, 231">
+      <layerMoniker Id="0a69285d-2dd6-4ed8-8d00-855538268564" />
+    </layerShape>
+  </nestedChildShapes>
+</layerDiagram>
